@@ -1,5 +1,5 @@
 print()
-print("                              Welcome to CandB Notes!")
+print("                              Welcome to Cows and Bulls!")
 print()
 print("                     Player 2 guesses player 1's three digit number.")
 print()
@@ -57,14 +57,3 @@ while num1_guess != secret_num1 or num2_guess != secret_num2 or num3_guess != se
 else:
     Bulls == 3
     print("3 Bulls!!! YOU WIN!!!")
-
-
-
-
-
-
-
-
-
-
-
